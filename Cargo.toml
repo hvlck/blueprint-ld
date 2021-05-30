@@ -1,0 +1,13 @@
+[package]
+name = "blueprint-ld"
+version = "0.0.1"
+description = "typings for various semantic web/linked data projects"
+authors = ["hvlck <just.ethan@protonmail.com>"]
+edition = "2018"
+readme = "README.md"
+homepage = "https://github.com/hvlck/blueprint-ld"
+repository = "https://github.com/hvlck/blueprint-ld"
+license = "Apache-2.0"
+publish = false
+
+[dependencies]
